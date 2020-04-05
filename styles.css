@@ -1,0 +1,12 @@
+.ascii-header {
+    white-space: pre-wrap;
+    font-family: monospace;
+    color: aliceblue;
+}
+body{
+    font-family: sans-serif;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    display: block;
+}
